@@ -1,0 +1,6 @@
+/*     abc, bbc  cb,,  aaa
+aab,
+ccb,srf
+      sfd*/   aabcb
+aabccb abababc
+acbabcb aaacbcbcbcabc

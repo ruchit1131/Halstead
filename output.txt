@@ -1,0 +1,19 @@
+
+
+in line 4 
+
+in line 5 
+substring abc is present at index(s)  6 
+substring cb is present at index(s)  8 
+substring aab is present at index(s)  5 
+
+in line 6 
+substring abc is present at index(s)  1  11 
+substring cb is present at index(s)  4 
+substring aab is present at index(s)  0 
+substring ccb is present at index(s)  3 
+
+in line 7 
+substring abc is present at index(s)  3  18 
+substring cb is present at index(s)  1  5  11  13  15 
+substring aaa is present at index(s)  8 
